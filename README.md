@@ -22,7 +22,7 @@ ____
 ____
 ## Анализ информационных моделей
 [:arrow_up:Оглавление](#Оглавление)
-[task1_example](./task1/task1_example.png)
+[task1_example](https://github.com/artTerexov/ege_course/blob/master/task1/task1_example.png)
 ____
 ## Таблицы истинности
 [:arrow_up:Оглавление](#Оглавление)
